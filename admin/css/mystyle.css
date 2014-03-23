@@ -1,0 +1,24 @@
+div#back-end{
+	width: 600px;
+	float: center;
+	margin-top: 70px;
+	height: 400px;
+}
+#body{
+	background-color: darkgray;
+
+}
+#logout{
+	margin-top: 30px;
+	margin-left: 190px;
+	width: 200px;
+	height: 40px;
+}
+#head{
+	margin-top: 100px;
+}
+#score{
+	margin-left: 240px;
+	size: 7em;
+	margin-top: 70px;
+}

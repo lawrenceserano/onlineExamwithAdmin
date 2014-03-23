@@ -1,0 +1,17 @@
+.top{
+	width: 1024px;
+}
+
+.left{
+	float:left;
+	width:768px;
+}
+
+.right{
+	float:left;
+	width:256px;
+}
+
+.top-content{
+	background-image: url('img/logolibrary copy.PNG');
+}
